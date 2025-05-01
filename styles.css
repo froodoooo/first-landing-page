@@ -158,3 +158,12 @@ body {
     color: white;
     align-self: center;
 }
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
