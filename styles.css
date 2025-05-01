@@ -102,3 +102,24 @@ body {
     text-align: center;
     font-size: 12px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.nonsense {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.whotf {
+    align-self: flex-end;
+}
